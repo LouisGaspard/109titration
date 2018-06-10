@@ -1,5 +1,5 @@
 # 109titration
 
-Comptutation of derivatives
+Comptutation of derivatives.
 
 Mark: 16.7
